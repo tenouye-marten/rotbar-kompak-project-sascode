@@ -295,6 +295,12 @@ ul {
   background-size: cover;
   padding: 140px 60px 140px 60px;
 }
+.bg14 {
+  background: url(assets/images/banner1.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
 .course-shape-bg {
   background: url(assets/images/bg/course-shape-bg.jpg);
   background-size: cover;
@@ -4226,12 +4232,16 @@ body .modal-backdrop {
   bottom: 88px;
 }
 .rs-banner.style8 {
-  background: url(assets/images/banner/home9.jpg);
+  /* background: url(assets/images/banner1.jpg); */
+
+  background: rgb(240,230,193);
+  background: linear-gradient(0deg, rgba(240,230,193,1) 0%, rgba(214,192,255,1) 100%);
   background-size: cover;
   background-position: center;
   display: grid;
   align-items: center;
-  min-height: 960px;
+  min-height: 600px;
+
 }
 .rs-banner.style8 .banner-content {
   margin-top: 30px;
