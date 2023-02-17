@@ -4196,7 +4196,7 @@ body .modal-backdrop {
   background-size: cover;
   background-position: center;
   position: relative;
-  min-height: 870px;
+  min-height: 990px;
 }
 .rs-banner.style7 .banner-content {
   position: relative;
@@ -4234,8 +4234,8 @@ body .modal-backdrop {
 .rs-banner.style8 {
   /* background: url(assets/images/banner1.jpg); */
 
-  background: rgb(240,230,193);
-  background: linear-gradient(0deg, rgba(240,230,193,1) 0%, rgba(214,192,255,1) 100%);
+  background: rgb(255,237,164);
+  background: linear-gradient(133deg, rgba(255,237,164,1) 0%, rgba(99,107,247,1) 100%);
   background-size: cover;
   background-position: center;
   display: grid;
