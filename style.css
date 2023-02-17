@@ -4328,7 +4328,9 @@ body .modal-backdrop {
   font-size: 20px;
 }
 .rs-banner.style10 {
-  background: url(assets/images/banner/home12/banner-home12.jpg);
+  /* background: url(assets/images/banner-rotbar-kompak.jpeg); */
+  background: rgb(249,240,206);
+  background: linear-gradient(133deg, rgba(249,240,206,1) 0%, rgba(144,147,187,1) 100%);
   background-repeat: no-repeat;
   background-size: cover;
   display: grid;
@@ -11778,7 +11780,7 @@ body .modal-backdrop {
   padding-right: 15px;
 }
 .rs-cta.home11-style {
-  background: url(assets/images/cta/home11.jpg);
+  background-color: #EEEEEE;
   background-repeat: no-repeat;
   background-position: bottom;
 }
